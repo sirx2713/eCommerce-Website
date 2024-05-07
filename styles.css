@@ -1,0 +1,153 @@
+#heading, #sub-heading{
+    font-family: "SF Pro Display", serif;
+    text-align: center;
+}
+#heading{
+    color: #222831;
+}
+#sub-heading{
+    font-weight: normal;
+    font-size: 15px;
+    color: #31363F;
+}
+#first-div > #headset-div{
+    height: 300px;
+    width: 300px;
+    background-color: #EEEEEE;
+    padding: 5px;
+    display: block;
+}
+#first-div > #headset-div > h3{
+    color: white;
+    background-color: #76ABAE;
+    display: inline;
+    padding: 5px;
+}
+#first-div > h3{
+    font-family: "SF Pro Display", serif;
+    font-size: 13px;
+    padding-left: 15px;
+}
+#first-div > p{
+    font-family: "SF Pro Display", serif;
+    color: #61677A;
+    font-size: 13px;
+    padding-left: 90px;
+}
+#second-div > #bag-div{
+    height: 300px;
+    width: 300px;
+    background-color: #EEEEEE;
+    padding: 5px;
+    display: block;
+}
+#second-div > #bag-div > h3{
+    color: white;
+    background-color: #76ABAE;
+    display: inline;
+    padding: 5px;
+}
+#second-div > h3{
+    font-family: "SF Pro Display", serif;
+    font-size: 13px;
+    padding-left: 15px;
+}
+#second-div > p{
+    font-family: "SF Pro Display", serif;
+    color: #61677A;
+    font-size: 13px;
+    padding-left: 90px;
+}
+#first-div, #second-div, #third-div, #fourth-div{
+    display: inline-block;
+    padding-right: 20px;
+}
+#third-div > #grayBag-div{
+    height: 300px;
+    width: 300px;
+    background-color: #EEEEEE;
+    padding: 5px;
+    display: block;
+}
+#third-div > #grayBag-div > h3{
+    color: white;
+    background-color: #76ABAE;
+    display: inline;
+    padding: 5px;
+}
+#third-div > h3{
+    font-family: "SF Pro Display", serif;
+    font-size: 13px;
+    padding-left: 15px;
+}
+#third-div > p{
+    font-family: "SF Pro Display", serif;
+    color: #61677A;
+    font-size: 13px;
+    padding-left: 90px;
+}
+#fourth-div > #watch-div{
+    height: 300px;
+    width: 300px;
+    background-color: #EEEEEE;
+    padding: 5px;
+    display: block;
+}
+#fourth-div > #watch-div > h3{
+    color: white;
+    background-color: #76ABAE;
+    display: inline;
+    padding: 5px;
+}
+#fourth-div > h3{
+    font-family: "SF Pro Display", serif;
+    font-size: 13px;
+    padding-left: 15px;
+}
+#fourth-div > p{
+    font-family: "SF Pro Display", serif;
+    color: #61677A;
+    font-size: 13px;
+    padding-left: 90px;
+}
+/*
+Bottom-div
+ */
+#bottom-div > #handBag-div > img{
+    float: left;
+    padding-right: 30px;
+}
+#bottom-div > #handBag-div > #text-div > p{
+    font-family: "SF Pro Display", serif;
+    padding-top: 50px;
+}
+#bottom-div > #handBag-div > #text-div > h2{
+    font-family: "SF Pro Display", serif;
+    font-size: 50px;
+}
+#bottom-div{
+    height: 350px;
+    width: 700px;
+    background-color: #CAF4FF;
+    display: inline-block;
+}
+/*Side Div
+ */
+#side-div > #handWatch-div > img{
+    float: left;
+    padding-right: 30px;
+}
+#side-div > #handWatch-div > #word-div > p{
+    font-family: "SF Pro Display", serif;
+    padding-top: 50px;
+}
+#side-div > #handWatch-div > #word-div > h2{
+    font-family: "SF Pro Display", serif;
+    font-size: 50px;
+}
+#side-div{
+    height: 350px;
+    width: 700px;
+    background-color: #FFE0B5;
+    display: inline-block;
+}
